@@ -1,0 +1,20 @@
+{
+  "title": "Demo Content Repository",
+  "owners": {"f": ["all"]},
+  "editors": {"demo": ["all"]},
+  "viewers": {},
+  "previewers": {},
+  "copyright": {},
+  "catalogInfo": {},
+  "search": {
+    "fields": [
+      "document.title",
+      "document.description"
+    ],
+    "filters": [
+      "document.type",
+      "document.category"
+    ],
+    "history": false
+  }
+}

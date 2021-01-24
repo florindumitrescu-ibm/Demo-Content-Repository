@@ -1,6 +1,6 @@
 {
   "title": "Demo Content Repository",
-  "owners": {"f": ["all"]},
+  "owners": {"demo": ["all"]},
   "editors": {},
   "viewers": {},
   "previewers": {},

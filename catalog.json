@@ -5,7 +5,7 @@
   "viewers": {},
   "previewers": {},
   "copyright": {},
-  "catalogInfo": {},
+  "info": {},
   "search": {
     "fields": [
       "document.title",
@@ -16,5 +16,6 @@
       "document.category"
     ],
     "history": false
-  }
+  },
+  "documentsInfo": {}
 }
